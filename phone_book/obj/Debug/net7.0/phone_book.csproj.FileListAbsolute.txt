@@ -1,0 +1,15 @@
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\obj\Debug\net7.0\phone_book.csproj.AssemblyReference.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\obj\Debug\net7.0\phone_book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\obj\Debug\net7.0\phone_book.AssemblyInfoInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\obj\Debug\net7.0\phone_book.AssemblyInfo.cs
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\obj\Debug\net7.0\phone_book.csproj.CoreCompileInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\bin\Debug\net7.0\phone_book.exe
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\bin\Debug\net7.0\phone_book.deps.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\bin\Debug\net7.0\phone_book.runtimeconfig.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\bin\Debug\net7.0\phone_book.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\bin\Debug\net7.0\phone_book.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\obj\Debug\net7.0\phone_book.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\obj\Debug\net7.0\refint\phone_book.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\obj\Debug\net7.0\phone_book.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\obj\Debug\net7.0\phone_book.genruntimeconfig.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\phone_book\obj\Debug\net7.0\ref\phone_book.dll
